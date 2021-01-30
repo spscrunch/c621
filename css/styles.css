@@ -1,0 +1,22 @@
+body{
+  background-color: #222831;
+  color: #00adb5;
+}
+hr{
+  background-color: #222831;
+  border-color: #eeeeee;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10% ;
+}
+h1,h3{
+  color: #eeeeee;
+}
+a{
+  color: #eeeeee;
+}
+img{
+  background-color: #222831;
+  border-radius: 100%;
+}
